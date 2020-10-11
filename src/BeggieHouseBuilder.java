@@ -1,4 +1,4 @@
-//Another Houser builder called beggie
+//Another House builder called beggie
 
 public class BeggieHouseBuilder implements  HouseBuilder{
     private House house;

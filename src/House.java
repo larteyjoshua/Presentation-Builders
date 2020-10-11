@@ -1,4 +1,5 @@
 class House implements HousePlan {
+    // Attributes or properties of a particular house
     private String basement;
     private String structure;
     private String roof;
