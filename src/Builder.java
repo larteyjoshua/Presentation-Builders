@@ -17,6 +17,7 @@ public class Builder {
             House house2 = engineer2.getHouse();
 
             System.out.println("Builder1 constructed: " + house1);
+            
             System.out.println("Builder2 constructed: " + house2);
         }
     }
