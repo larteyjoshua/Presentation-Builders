@@ -18,7 +18,7 @@ public class BeggieHouseBuilder implements  HouseBuilder{
         house.setStructure("Wood and Ice");
     }
 
-    public void bulidRoof()
+    public void buildRoof()
     {
         house.setRoof("Wood, caribou and seal skins");
     }

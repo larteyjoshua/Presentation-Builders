@@ -17,7 +17,7 @@ public class CivilEngineer {
     {
         this.houseBuilder.buildBasement();
         this.houseBuilder.buildStructure();
-        this.houseBuilder.bulidRoof();
+        this.houseBuilder.buildRoof();
         this.houseBuilder.buildInterior();
     }
 }

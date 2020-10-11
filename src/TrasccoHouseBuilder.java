@@ -19,7 +19,7 @@ public class TrasccoHouseBuilder implements  HouseBuilder{
         house.setStructure("Ice Blocks");
     }
 
-    public void bulidRoof()
+    public void buildRoof()
     {
         house.setRoof("Ice Dome");
     }

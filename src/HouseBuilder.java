@@ -3,7 +3,7 @@ public interface HouseBuilder {
 
     public void buildStructure();
 
-    public void bulidRoof();
+    public void buildRoof();
 
     public void buildInterior();
 
